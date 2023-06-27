@@ -81,5 +81,5 @@ mars.addEventListener('click', easter_egg)
 
 let btnchangetheme = document.querySelector('#btn_change_theme')
 btnchangetheme.addEventListener('click',function(){
-    
+    console.log('пидор')
 })
